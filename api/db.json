@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "asd",
+      "description": "asd",
+      "id": 1,
+      "userId": "108195037171752084918"
+    },
+    {
+      "title": "asd",
+      "description": "asdsad",
+      "id": 2,
+      "userId": "108195037171752084911"
+    },
+    {
+      "title": "denny",
+      "description": "asdsad",
+      "id": 12
+    }
+  ]
+}
